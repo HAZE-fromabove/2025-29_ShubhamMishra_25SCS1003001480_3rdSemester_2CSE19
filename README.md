@@ -80,3 +80,75 @@ Model Evaluation
         │
         ▼
 Sentiment Prediction
+```
+
+📊 Dataset
+Sentiment140
+
+The project uses the Sentiment140 dataset available through Kaggle.
+
+Dataset characteristics:
+
+Approximately 1.6 million tweets
+Twitter text data
+Sentiment classification labels
+Original sentiment targets include 0 for negative and 4 for positive
+Designed for sentiment analysis and text classification
+
+Dataset: Sentiment140 – Kaggle
+
+💻 Development Environment
+
+The project was developed and executed using Google Colab.
+
+Technologies & Libraries
+
+Python · Google Colab · Pandas · NumPy · Scikit-learn · NLTK · Natural Language Processing (NLP) · Machine Learning · Logistic Regression
+
+📈 Model Evaluation
+
+The trained Logistic Regression model was evaluated using the test dataset to measure its classification performance.
+
+Evaluation Metrics
+Accuracy
+Classification performance on test data
+Predicted vs. actual sentiment labels
+
+Add the final accuracy and other metrics here once they are confirmed from the project notebook.
+
+🏆 Internship Certificate
+Field	Details
+Certificate	Certificate of Internship
+Name	Shubham Mishra
+Role	Artificial Intelligence Intern
+Organization	Codec Technologies Pvt. Ltd.
+Duration	45 Days
+Program Approval	AICTE & ICAC
+Conducted From	17/07/2026
+Conducted To	31/08/2026
+
+The certificate was issued by Codec Technologies Pvt. Ltd. in recognition of completion of the 45 Days AICTE & ICAC Approved Internship Program as an Artificial Intelligence Intern.
+
+📁 Repository Contents
+├── Twitter_Sentiment_Analysis.ipynb   # Google Colab project notebook
+├── Internship_Report.pdf              # Internship report
+├── Internship_Presentation.pptx       # Internship presentation
+├── internship_certificate.pdf         # Internship completion certificate
+└── README.md                           # Project documentation
+
+Update the filenames above according to the actual files uploaded to the repository.
+
+🔗 References
+Sentiment140 Dataset: Kaggle dataset containing approximately 1.6 million tweets for sentiment analysis.
+Scikit-learn: Machine learning tools used for model development and evaluation.
+Natural Language Toolkit (NLTK): Used for natural language processing and text preprocessing.
+🙏 Acknowledgement
+
+I would like to thank Codec Technologies Pvt. Ltd. for providing me with the opportunity to undertake the Artificial Intelligence Internship.
+
+I am grateful for the practical exposure and learning experience gained through the internship and for the opportunity to apply Artificial Intelligence and Machine Learning concepts to a real-world text classification problem.
+
+Shubham Mishra
+Artificial Intelligence Intern
+Codec Technologies Pvt. Ltd.
+17 July 2026 – 31 August 2026
