@@ -82,73 +82,114 @@ Model Evaluation
 Sentiment Prediction
 ```
 
-📊 Dataset
-Sentiment140
 
-The project uses the Sentiment140 dataset available through Kaggle.
+## 📊 Dataset
 
-Dataset characteristics:
+### **Sentiment140**
 
-Approximately 1.6 million tweets
-Twitter text data
-Sentiment classification labels
-Original sentiment targets include 0 for negative and 4 for positive
-Designed for sentiment analysis and text classification
+The project uses the **Sentiment140 dataset** available through **Kaggle**.
 
-Dataset: Sentiment140 – Kaggle
+| **Dataset Characteristic** | **Details** |
+| -------------------------- | ----------- |
+| **Dataset Name** | **Sentiment140** |
+| **Size** | **Approximately 1.6 million tweets** |
+| **Data Type** | **Twitter text data** |
+| **Task** | **Sentiment Classification** |
+| **Negative Label** | `0` |
+| **Positive Label** | `4` |
+| **Application** | **Sentiment Analysis & Text Classification** |
 
-💻 Development Environment
+**Dataset:** **Sentiment140 – Kaggle**
 
-The project was developed and executed using Google Colab.
+---
 
-Technologies & Libraries
+## 💻 Development Environment
 
-Python · Google Colab · Pandas · NumPy · Scikit-learn · NLTK · Natural Language Processing (NLP) · Machine Learning · Logistic Regression
+The project was **developed and executed using Google Colab**.
 
-📈 Model Evaluation
+### **Technologies & Libraries**
 
-The trained Logistic Regression model was evaluated using the test dataset to measure its classification performance.
+| **Technology / Library** | **Purpose** |
+| ------------------------ | ----------- |
+| **Python** | Programming language used for the project |
+| **Google Colab** | Development and execution environment |
+| **Pandas** | Data loading and manipulation |
+| **NumPy** | Numerical operations |
+| **Scikit-learn** | Machine learning model development and evaluation |
+| **NLTK** | Natural Language Processing and text preprocessing |
+| **NLP** | Text processing and sentiment analysis |
+| **Machine Learning** | Classification and predictive modeling |
+| **Logistic Regression** | Sentiment classification algorithm |
 
-Evaluation Metrics
-Accuracy
-Classification performance on test data
-Predicted vs. actual sentiment labels
+---
 
-Add the final accuracy and other metrics here once they are confirmed from the project notebook.
+## 📈 Model Evaluation
 
-🏆 Internship Certificate
-Field	Details
-Certificate	Certificate of Internship
-Name	Shubham Mishra
-Role	Artificial Intelligence Intern
-Organization	Codec Technologies Pvt. Ltd.
-Duration	45 Days
-Program Approval	AICTE & ICAC
-Conducted From	17/07/2026
-Conducted To	31/08/2026
+The trained **Logistic Regression model** was evaluated using the **test dataset** to measure its classification performance.
 
-The certificate was issued by Codec Technologies Pvt. Ltd. in recognition of completion of the 45 Days AICTE & ICAC Approved Internship Program as an Artificial Intelligence Intern.
+### **Evaluation Metrics**
 
-📁 Repository Contents
+| **Metric** | **Description** |
+| ---------- | --------------- |
+| **Accuracy** | Measures the overall percentage of correctly classified tweets |
+| **Classification Performance** | Evaluates how effectively the model classifies sentiment |
+| **Predicted vs. Actual Labels** | Compares model predictions with the actual sentiment labels |
+
+
+
+---
+
+## 🏆 Internship Certificate
+
+| **Field** | **Details** |
+| --------- | ----------- |
+| **Certificate** | **Certificate of Internship** |
+| **Name** | **Shubham Mishra** |
+| **Role** | **Artificial Intelligence Intern** |
+| **Organization** | **Codec Technologies Pvt. Ltd.** |
+| **Duration** | **45 Days** |
+| **Program Approval** | **AICTE & ICAC** |
+| **Conducted From** | **17/07/2026** |
+| **Conducted To** | **31/08/2026** |
+
+The certificate was issued by **Codec Technologies Pvt. Ltd.** in recognition of completing the **45 Days AICTE & ICAC Approved Internship Program** as an **Artificial Intelligence Intern**.
+
+---
+
+## 📁 Repository Contents
+
+```text
 ├── Twitter_Sentiment_Analysis.ipynb   # Google Colab project notebook
 ├── Internship_Report.pdf              # Internship report
 ├── Internship_Presentation.pptx       # Internship presentation
 ├── internship_certificate.pdf         # Internship completion certificate
-└── README.md                           # Project documentation
+└── README.md                          # Project documentation
+```
 
-Update the filenames above according to the actual files uploaded to the repository.
+---
 
-🔗 References
-Sentiment140 Dataset: Kaggle dataset containing approximately 1.6 million tweets for sentiment analysis.
-Scikit-learn: Machine learning tools used for model development and evaluation.
-Natural Language Toolkit (NLTK): Used for natural language processing and text preprocessing.
-🙏 Acknowledgement
+## 🔗 References
 
-I would like to thank Codec Technologies Pvt. Ltd. for providing me with the opportunity to undertake the Artificial Intelligence Internship.
+| **Resource** | **Description** |
+| ------------ | --------------- |
+| **Sentiment140 Dataset** | Kaggle dataset containing approximately 1.6 million tweets for sentiment analysis |
+| **Scikit-learn** | Machine learning tools used for model development and evaluation |
+| **Natural Language Toolkit (NLTK)** | Library used for natural language processing and text preprocessing |
 
-I am grateful for the practical exposure and learning experience gained through the internship and for the opportunity to apply Artificial Intelligence and Machine Learning concepts to a real-world text classification problem.
+---
 
-Shubham Mishra
-Artificial Intelligence Intern
-Codec Technologies Pvt. Ltd.
-17 July 2026 – 31 August 2026
+## 🙏 Acknowledgement
+
+I would like to thank **Codec Technologies Pvt. Ltd.** for providing me with the opportunity to undertake the **Artificial Intelligence Internship**.
+
+I am grateful for the **practical exposure and learning experience** gained throughout the internship and for the opportunity to apply **Artificial Intelligence, Machine Learning, and Natural Language Processing concepts** to a real-world **text classification problem**.
+
+---
+
+## 👨‍💻 Internship
+
+### **Shubham Mishra**
+
+**Artificial Intelligence Intern**  
+**Codec Technologies Pvt. Ltd.**  
+**17 July 2026 – 31 August 2026**
